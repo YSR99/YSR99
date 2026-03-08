@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @YSR99
+# 👋 Hi, I’m YSR
 
 ## 👀 I’m interested in
 - Machine Learning
@@ -13,11 +13,11 @@
 - Machine Learning projects, especially those involving real-world applications and research.
 
 ## 📫 You can reach me at
-- [Your Email Address](mailto: yuvrjofficial@gmail.comm)  
+- [Email Address](mailto: yuvrjofficial@gmail.comm)  
 - [Your LinkedIn Profile](https://www.linkedin.com/in/yuvraj-rana-01ba9824b/)
 
 ## 😄 Pronouns
 - He/Him
 
 ## ⚡ Fun fact
-- I love reading fiction and watch Neo - noir films.
+- I make good coffee.
