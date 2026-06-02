@@ -7,7 +7,7 @@
 - Data
 
 ## 🌱 I’m currently learning
-- Celery and Redis  (like TensorFlow and PyTorch)
+- Celery and Redis 
 
 ##  I’m looking to collaborate on
 - Backend projects, especially those involving real-world applications and research.
