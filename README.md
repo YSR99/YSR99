@@ -1,4 +1,4 @@
-# Hi, I’m YSR
+# Hi, I’m Yuvraj Rana.
 
 ## 👀 I’m interested in
 - Backend
